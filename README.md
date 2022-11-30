@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--tSq3pK63--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j71o6fyry39eaz1eyjna.jpg)]
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
-<h4>I am a full Stack web devloper. I love make responsive and intractive website. Good knowledge of HTML, CSS, React, Redux, ChakraUI, Postman, Express, MongoDB, Mongoose, Nodejs<h4/>
+<h4>I am a full-Stack web developer. I love making responsive and attractive websites. Good knowledge of HTML, CSS, React, Redux, ChakraUI, Postman, Express, MongoDB, Mongoose, and Nodejs.<h4/>
 <h2>Objective</h2>
 <h4>Self-motivated Web Development professional looking for programming work to utilizing my knowledge and experiance and exploring new things.</h4>
 <h2 align="left">Connect with me:</h2>
@@ -32,7 +32,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bondshailesh&label=Profile%20views&color=0e75b6&style=flat" alt="bondshailesh" /> </p>
 
-- 🔭 I’m currently working on [Bloging Website](https://github.com/BondShailesh/fabba)
+- 🔭 I’m currently working on [Bloging Website](https://github.com/BondShailesh/BlogWorld)
 
 - 🌱 I’m currently learning **MERN**
 
